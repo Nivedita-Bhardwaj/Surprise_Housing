@@ -1,7 +1,7 @@
 # Surprise_Housing
 Surprise Housing
 - By Nivedita Bhardwaj
-Problem statement : Build a regression model using regularisation in order to predict the actual value of the prospective properties and decide whether to invest in them or not.
+- Problem statement : Build a regression model using regularisation in order to predict the actual value of the prospective properties and decide whether to invest in them or not.
 
 The company wants to know:
 
@@ -16,8 +16,8 @@ Approach :
 - Reading and understanding the data
 - Data Visualisation
 - Data Preparation
-Dividing data into test and train datasets
-Building a Regression Model
-Residual Analysis of the train data
-Making Predictions Using the Final Model
-Model Evaluation
+- Dividing data into test and train datasets
+- Building a Regression Model
+- Residual Analysis of the train data
+- Making Predictions Using the Final Model
+- Model Evaluation
