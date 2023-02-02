@@ -13,9 +13,9 @@ Also, determine the optimal value of lambda for ridge and lasso regression.
 
 Approach :
 
-Reading and understanding the data
-Data Visualisation
-Data Preparation
+- Reading and understanding the data
+- Data Visualisation
+- Data Preparation
 Dividing data into test and train datasets
 Building a Regression Model
 Residual Analysis of the train data
